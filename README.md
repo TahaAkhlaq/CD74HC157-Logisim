@@ -1,7 +1,4 @@
 # CD74HC157-Logisim
-Logisim-Evolution Library Model for CMOS 74HC157 Quad 2-Input Multiplexer
-
-# CD4518-Logisim
 This repository contains a Logisim-Evolution library for the CMOS 74HC157 Quad 2-Input Multiplexer IC; for technical specifications, refer to the [CD54/74HC157 Datasheet](https://www.ti.com/lit/ds/symlink/cd54hct158.pdf?ts=1713737816759&ref_url=https%253A%252F%252Fwww.google.com%252F).
 
 ## Usage
