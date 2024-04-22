@@ -10,7 +10,9 @@ To use this library in Logisim-Evolution, follow these steps:
 2. Navigate to `Project` -> `Load Library` -> `Logisim-evolution Library` within Logisim-Evolution.
 3. You will then see a `74HC157` folder in your toolbar, which contains the model that can be used as a component in your circuit designs.
 
-![CD74HC157 IC](./74HC157.png)
+<p align="center">
+  <img src="./74HC157.png" alt="CD74HC157 IC"/>
+</p>
 
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
